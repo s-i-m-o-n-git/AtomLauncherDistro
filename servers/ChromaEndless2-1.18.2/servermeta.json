@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/ptifu/Desktop/Nebula-master/TestRoot2/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.1.4",
+    "name": "ChromaEndless2 (Minecraft 1.18.2)",
+    "description": "ChromaEndless2 Running Minecraft 1.18.2 (Forge v40.2.5)",
+    "icon": "https://media.forgecdn.net/avatars/thumbnails/909/840/64/64/638363301032894630.jpeg",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "40.2.5"
+  },
+  "untrackedFiles": []
+}

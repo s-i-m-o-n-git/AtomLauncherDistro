@@ -13,7 +13,7 @@
       "description": "ChromaEndless2 Running Minecraft 1.18.2 (Forge v40.2.5)",
       "icon": "https://media.forgecdn.net/avatars/thumbnails/909/840/64/64/638363301032894630.jpeg",
       "version": "1.1.4",
-      "address": "localhost:25565",
+      "address": "163.5.107.12:25504",
       "minecraftVersion": "1.18.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
